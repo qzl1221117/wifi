@@ -15,4 +15,4 @@ wifi command is also implemented as a library that can be used from Python.
    :target: https://travis-ci.org/rockymeza/wifi
 
 The documentation for wifi lives at https://wifi.readthedocs.org/en/latest/.
-aaaaa
+
